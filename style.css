@@ -79,7 +79,7 @@ h2{
         margin-left: 50px;
     }
     .images img{
-        width: 400px;
+        width: 350px;
         display: block;
         margin: 0 auto;
         border-top-left-radius: 10px;
@@ -87,14 +87,14 @@ h2{
         border-bottom-right-radius: 0;
     }
     .overlay{
-        width: 410px;
-        height: 340px;
-        left: 20px;
+        width: 450px;
+        height: 299px;
+        left: 10px;
         top: 20px;
     }
     .text{
         margin-top: -80px;
-        width: 400px;
+        width: 350px;
         height: 600px;
         margin-bottom: 50px;
         border-bottom-left-radius: 10px;
