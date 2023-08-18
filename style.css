@@ -76,8 +76,7 @@ h2{
     }
     .images{
         margin-top: 30px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 50px;
     }
     .images img{
         width: 400px;
@@ -90,7 +89,7 @@ h2{
     .overlay{
         width: 410px;
         height: 340px;
-        left: 40px;
+        left: 60px;
         top: 20px;
     }
     .text{
@@ -100,8 +99,7 @@ h2{
         margin-bottom: 50px;
         border-bottom-left-radius: 10px;
         border-bottom-right-radius: 10px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 50px;
     }
     h1{
         padding-top: 50px;
